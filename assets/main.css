@@ -57,6 +57,7 @@ h1, h2 {
 h1 {
     font-size: 2em;
     line-height: 40px;
+    margin-bottom: 1em;
 }
 
 h2 {
@@ -421,4 +422,8 @@ ul {
     .mt0mob {
         margin-top: 0;
     }
+}
+
+.drdelay2 {
+    margin-top: 100em;
 }
